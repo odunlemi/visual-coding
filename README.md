@@ -1,2 +1,2 @@
 # visual-coding
-This are first steps for creative and generative coding
+First steps for creative and generative coding
